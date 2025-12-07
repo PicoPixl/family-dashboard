@@ -286,3 +286,5 @@ This README was generated from the packaged app. The app includes:
 * Timer feature (kitchen timer with alarm)
 
 ---
+
+Note: For full disclosure, this app was generated with the assistance of AI.
